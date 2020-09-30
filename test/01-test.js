@@ -104,7 +104,7 @@ describe('GraphNode Algorithms', () => {
 });
 
 describe('Adjacency List Algorithms', () => {
-    describe('numRegions(graph)', () => {
+    describe('numRegions(graph)', () => { 
         // it should accept an adjacency list representing a graph
 
         it('should return the number of connected components that make up the full graph', () => {
